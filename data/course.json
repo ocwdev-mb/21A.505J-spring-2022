@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "a4b60a17-c963-08e9-87dc-fec6a2c71ac4",
+      "1619043a-517d-06ae-7e56-41fab57835ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3d940df2-cec7-4c22-b7f0-94c2c140176c",
+    "website": "the-anthropology-of-sound"
+  },
+  "course_title": "The Anthropology of Sound",
+  "course_description": "This course examines the ways humans experience sound and how perceptions and technologies of sound emerge from cultural, economic, and historical worlds. It considers how the sound/noise/music boundaries have been imagined, created, and modeled across sociocultural and historical contexts. Students will learn how environmental, linguistic, and musical sounds are construed cross-culturally as well as the rise of telephony, architectural acoustics, sound recording, multi-channel and spatial mix performance, and the globalized travel of these technologies. Questions of sound ownership, property, authorship, remix, and copyright in the digital age are also addressed.",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.065J",
+  "primary_course_number": "21A.505J",
+  "course_image_thumbnail": {
+    "content": "dc01db0f-6c45-4245-b176-3d017bd246b4",
+    "website": "the-anthropology-of-sound"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Readings",
+    "Activity Assignments with Examples",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "39515566-d303-4580-be99-6e47f7850edf",
+  "site_short_id": "21A.505J-spring-2022"
+}

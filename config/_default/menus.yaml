@@ -1,0 +1,46 @@
+leftnav:
+- identifier: 0798bfa9-fd4e-4f3a-b306-f41cb0a83eb4
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4b15eebb-b71a-407b-805f-b455ed1dc730
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: d1c213c0-a354-4d24-9f7b-03ce0ef56f6c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: d4eeb698-28d9-4856-87f9-5becb825e673
+  name: Lecture Slides
+  pageRef: /lists/lecture-slides
+  weight: 40
+- identifier: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: bebf9bcc-e1d3-45b5-9b75-be555f26fd64
+  name: Session 3 Assignment
+  pageRef: /pages/session-3-assignment
+  parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  weight: 10
+- identifier: f273603f-09a7-4afc-81d4-facb136a67ca
+  name: Session 5 Assignment
+  pageRef: /pages/session-5-assignment
+  parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  weight: 20
+- identifier: 8e8877ac-f352-459f-bb2c-3c8a19cd287b
+  name: Session 7 Assignment
+  pageRef: /pages/session-7-assignment
+  parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  weight: 30
+- identifier: 1808ea10-44bd-47b9-a226-decb2166c674
+  name: Session 9 Assignment
+  pageRef: /pages/session-9-assignment
+  parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  weight: 40
+- identifier: c0300e20-c083-4b7a-ad86-5d1128fe9ede
+  name: Session 11 Assignment
+  pageRef: /pages/session-11-assignment
+  parent: 3adf174e-7941-4d88-9854-eb4b1eb6c643
+  weight: 50
